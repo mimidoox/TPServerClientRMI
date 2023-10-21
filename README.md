@@ -20,25 +20,25 @@ This project is a Java-based machine and room management system developed using 
 
 
 #### UML Class Diagram
-<img width="693" alt="Screenshot 2023-10-21 at 15 28 34" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/8bd0e454-25f2-4d8e-ab42-d9cff06ac64a">
+<img width="693" alt="Screenshot 2023-10-21 at 15 28 34" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/9ece0d14-4f13-4b7d-974c-9a5655b2ad8b">
 
 #### Main Page or Home
-<img width="334" alt="Screenshot 2023-10-21 at 14 52 47" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/54ced5f2-7e60-44d3-a5c3-f5b412d2a099">
+<img width="334" alt="Screenshot 2023-10-21 at 14 52 47" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/203a8909-bbaf-4ced-a595-882601925d34">
 
 #### Machine Management Interface
-<img width="410" alt="Screenshot 2023-10-21 at 14 45 35" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/aa899f67-d4fe-4d2b-868f-710617699d63">
+<img width="410" alt="Screenshot 2023-10-21 at 14 45 35" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/ad4f1b9b-c9b5-4819-bda9-f7d1216335f7">
 
 #### Add a New Machine
-<img width="411" alt="Screenshot 2023-10-21 at 14 48 03" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/9bc7d84d-1a01-4f13-ad11-10bca19a1f87">
-<img width="409" alt="Screenshot 2023-10-21 at 14 48 21" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/74e5e7b9-0f4d-42dd-afc2-a3a295f0a6d5">
+<img width="411" alt="Screenshot 2023-10-21 at 14 48 03" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/8074161e-ff13-467c-b4eb-f1320d329aae">
+<img width="409" alt="Screenshot 2023-10-21 at 14 48 21" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/7e6a8c4f-3fdd-43ed-b087-f0e77c643f11">
 
-#### Machine Management Interface
-<img width="293" alt="Screenshot 2023-10-21 at 14 50 18" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/3e4b2a93-6e5d-45be-8acf-8321230b06a6">
+#### Room Management Interface
+<img width="293" alt="Screenshot 2023-10-21 at 14 50 18" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/4c7259d1-04e1-4986-a3a4-d3cd7c4bee6b">
 
 
 #### Machine Per Room Interface
-<img width="372" alt="Screenshot 2023-10-21 at 14 50 54" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/0708e4d7-e1e5-44ef-8a0b-1d6790a485e1">
-<img width="370" alt="Screenshot 2023-10-21 at 14 51 20" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/53bf7a4e-1270-495c-b58d-8bbc6683d8cf">
+<img width="372" alt="Screenshot 2023-10-21 at 14 50 54" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/328cac83-1f4d-4c7b-8b72-4e06b222cdfd">
+<img width="370" alt="Screenshot 2023-10-21 at 14 51 20" src="https://github.com/mimidoox/TPServerClientRMI/assets/118699556/006bdf51-0915-42ae-afab-a2a71ad438c8">
 
 
 
